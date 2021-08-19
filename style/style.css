@@ -111,6 +111,10 @@ body {
   opacity: 1;
 }
 
+path.current-floor{
+  opacity: 1;
+}
+
 .counter {
   font-family: "Bebas Neue", sans-serif;
   font-size: 124px;
